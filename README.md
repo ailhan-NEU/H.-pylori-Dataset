@@ -1,1 +1,1 @@
-# H.-pylori-Dataset
+# Helicobacter Pylori Dataset
